@@ -1,2 +1,4 @@
 # iSongs
-statc website of songs and tunes
+static website of songs and tunes
+
+Later will add CHO format tree
